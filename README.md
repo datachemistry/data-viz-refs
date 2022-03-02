@@ -12,7 +12,7 @@ Sites:
 
 # Sites
 
-[The R Gallery](https://www.r-graph-gallery.com/index.html)<br?
-[From Data to Viz](https://www.data-to-viz.com/#explore)<br>
+- [The R Gallery](https://www.r-graph-gallery.com/index.html)
+- [From Data to Viz](https://www.data-to-viz.com/#explore)
 
 
