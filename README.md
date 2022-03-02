@@ -21,4 +21,4 @@ Sites:
 
 ## Livros
 
-[Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
+- [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
